@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xingyi Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Building an optical quantum network"
   location         : "Seattle, Washington"
   employer         : "University of Washington"
-  uri              : # URL
+  uri              : "https://waffelz.github.io/Xingyi_Wang/"
   email            : "xingyiw@uw.edu" 
 
   # Academic websites
