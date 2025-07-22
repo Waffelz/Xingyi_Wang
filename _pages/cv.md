@@ -11,24 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical Engineering, University of Washington, 2025 (expected)
+* Graduate Certificate in Quantum Information Science & Engineering
+* B.A. in Physics, Reed College, 2020
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* 2020-Present: Graduate Research Assistant| Quantum Defect Laboratory| Advisor Kai-Mei Fu
+  * University of Washington
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* 2019-2020: Undergraduate thesis researcher
+  * Reed College
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
+* Summer 2019: Research Assistant
+  * Arizona Stata University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
