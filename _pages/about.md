@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year PhD student of Electrical Engineering at the University of Washington advised by Prof. [Kai-Mei Fu](https://sites.google.com/uw.edu/optospintronics-lab/home). My research focuses on formation, optical characterization and control of solid state spin defects as building blocks of an optical quantum network. 
-
+I'm a final year PhD student of Electrical Engineering at the University of Washington advised by Prof. [Kai-Mei Fu](https://sites.google.com/uw.edu/optospintronics-lab/home). My research focuses on formation, optical characterization and control of solid state spin defects as building blocks of an optical quantum network.
+---
 I have completed a [Graduate Certificate in Quantum Information Science & Engineering](https://www.quantumx.washington.edu/training/graduate-certificate-in-quantum-information-science-and-engineering/), from which I learned how to access real quantum computers hosted on the cloud and run simple ground state energy estimation algorithms on a few qubits from trotterizing Hamiltonians. 
-
+---
 Before UW I graduated from Reed College with a B.A. in Physics. I was grateful to be introduced to solid state device physics through my REU at Arizona State University hosted by Prof. Zachary Holman. As a continuation of my summer research, I built an optical setup to measure the minority carrier lifetime of CdTe thin film solar cells for my undergrad thesis project advised by Prof. John Essick. 
 
 Site-wide configuration
