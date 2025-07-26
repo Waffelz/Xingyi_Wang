@@ -9,17 +9,14 @@
 
 main:
   - title: "Publications"
-    url: /publications/
-
-  - title: "Research Projects"
-    url: /projects/    
+    url: /publications/ 
     
   - title: "Portfolio"
     url: /portfolio/
         
   - title: "Talks and Presentations"
     url: /talks/
-    
+
   - title: "CV"
     url: /files/cv.pdf
     
