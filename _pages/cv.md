@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Electrical Engineering, University of Washington, 2025 (expected)
-* Graduate Certificate in Quantum Information Science & Engineering
+* Graduate Certificate in Quantum Information Science & Engineering, 2024
 * B.A. in Physics, Reed College, 2020
 
 Experience
@@ -27,18 +27,19 @@ Experience
   * Supervisor: Professor Hub
 
 * Summer 2019: Research Assistant
-  * Arizona Stata University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Arizona State University, Zachary Holman Research Group
+  * QESST Scholar – Summer 2019
+  * Developed PL-based metrology for perovskite solar cells; quantified external radiative efficiency and surface photovoltage through automated data collection and processing via LabVIEW.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Quantum Computing & Device Simulation: Qiskit, QuTiP, Azure Quantum, quantum simulation with trotter
+decomposition, photonic device and waveguide simulation with Lumerical FDTD
+Experimental Techniques: Confocal microscopy, free-space optics, coherent spin control, optical
+absorption/transmission, time-correlated single photon counting (TCSPC), tunable laser optical cavity
+alignment, cryogenic and vacuum systems maintenance
+Fabrication & Materials: SEM, AFM, ion implantation, annealing, chemo-mechanical polishing
+Software & Programming: Python, LabVIEW, Mathematica, Zemax, NI DAQ, Autodesk
 
 Publications
 ======
