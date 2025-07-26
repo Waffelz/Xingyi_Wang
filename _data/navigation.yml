@@ -12,19 +12,19 @@ main:
     url: /publications/
 
   - title: "Research Projects"
-    url: /talks/    
+    url: /projects/    
     
   - title: "Portfolio"
     url: /portfolio/
         
   - title: "Talks and Presentations"
-    url: /year-archive/
+    url: /talks/
     
   - title: "CV"
-    url: /files/slide1.pdf
+    url: /files/cv.pdf
     
   - title: "After work"
-    url: /cv-json/
+    url: /cv/
     
   - title: "Guide"
     url: /markdown/
