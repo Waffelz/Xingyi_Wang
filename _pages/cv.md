@@ -17,29 +17,28 @@ Education
 
 Experience
 ======
-* 2020-Present: Graduate Research Assistant| Quantum Defect Laboratory| Advisor Kai-Mei Fu
-  * University of Washington
-  * Duties includes: Updates and improvements to template
+* 2020-Present: Graduate Research Assistant
+  * University of Washington, Seattle
+  * Quantum Defect Laboratory, advised by Kai-Mei Fu
 
 * 2019-2020: Undergraduate thesis researcher
   * Reed College
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Designed and built a modulated photoluminescence setup to measure carrier lifetime in CdTe solar cells. Automated data acquisition and analysis pipeline with LabVIEW.
+  * Thesis advisor: John Essick
 
 * Summer 2019: Research Assistant
   * Arizona State University, Zachary Holman Research Group
-  * QESST Scholar – Summer 2019
   * Developed PL-based metrology for perovskite solar cells; quantified external radiative efficiency and surface photovoltage through automated data collection and processing via LabVIEW.
   
 Skills
 ======
-Quantum Computing & Device Simulation: Qiskit, QuTiP, Azure Quantum, quantum simulation with trotter
+* Quantum Computing & Device Simulation: Qiskit, QuTiP, Azure Quantum, quantum simulation with trotter
 decomposition, photonic device and waveguide simulation with Lumerical FDTD
-Experimental Techniques: Confocal microscopy, free-space optics, coherent spin control, optical
+* Experimental Techniques: Confocal microscopy, free-space optics, coherent spin control, optical
 absorption/transmission, time-correlated single photon counting (TCSPC), tunable laser optical cavity
 alignment, cryogenic and vacuum systems maintenance
-Fabrication & Materials: SEM, AFM, ion implantation, annealing, chemo-mechanical polishing
-Software & Programming: Python, LabVIEW, Mathematica, Zemax, NI DAQ, Autodesk
+* Fabrication & Materials: SEM, AFM, ion implantation, annealing, chemo-mechanical polishing
+* Software & Programming: Python, LabVIEW, Mathematica, Zemax, NI DAQ, Autodesk
 
 Publications
 ======
@@ -53,12 +52,19 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+MENTORING & LEADERSHIP
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* REU Mentor, UW Molecular Engineering Materials Center (2021-2024)
+- Trained undergraduates on chemo-mechanical polishing protocol development, PL characterization, surface
+characterization, pulsed laser spectroscopy and TCSPC for ZnO substrates hosting donor spin qubits.
+- WiSE Bridge Project Mentor: Mentored student in confocal microscope design and Zemax simulation.
+* Teaching Assistant, University of Washington
+- EE 233 Circuit Theory (Winter/Spring 2021), EE 215 Fundamentals of ECE (Fall 2020)
   
-Service and leadership
+Service and honors
 ======
-* Currently signed in to 43 different slack teams
+*  Volunteer habitat interpreter, Seattle Aquarium (2023-2024)
+*  PhD Representative, UW ECE Curriculum Committee (2021–2022)
+*  Clean Energy Institute Graduate Fellowship, UW (2021–2022)
+*  Commendations for Academic Excellence, Reed College (2019–2020)
+*  Reed College Initiative Grant & Opportunity Grant (2019–2020)
